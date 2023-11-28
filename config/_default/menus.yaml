@@ -1,6 +1,7 @@
 leftnav:
-- identifier: external--1632447086-1701167385589
+- identifier: external--1632447086-1701174018282
   name: page
-  treatAsInternalLink: true
+  params:
+    includeLicenseWarning: true
   url: https://www.google.com
   weight: 10
