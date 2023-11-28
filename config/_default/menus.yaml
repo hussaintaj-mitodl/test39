@@ -1,0 +1,6 @@
+leftnav:
+- identifier: external--1632447086-1701167385589
+  name: page
+  treatAsInternalLink: true
+  url: https://www.google.com
+  weight: 10
